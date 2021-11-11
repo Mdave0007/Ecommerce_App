@@ -1,103 +1,31 @@
 # Ecommerce App Screenshots
 
-<!-- Slideshow container -->
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Slideshow Images</title>
-    <style>
-      .slider {
-        width: 500px;
-        height: 300px;
-        background-color: yellow;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 0px;
-        text-align: center;
-        overflow: hidden;
-      }
-      .image-container {
-        width: 1500px;
-        background-color: pink;
-        height: 300px;
-        clear: both;
-        position: relative;
-        -webkit-transition: left 2s;
-        -moz-transition: left 2s;
-        -o-transition: left 2s;
-        transition: left 2s;
-      }
-      .slide {
-        float: left;
-        margin: 0px;
-        padding: 0px;
-        position: relative;
-      }
-      #slide-1:target ~ .image-container {
-        left: 0px;
-      }
-      #slide-2:target ~ .image-container {
-        left: -500px;
-      }
-      #slide-3:target ~ .image-container {
-        left: -1000px;
-      }
-      .buttons {
-        position: relative;
-        top: -20px;
-      }
-      .buttons a {
-        display: inline-block;
-        height: 15px;
-        width: 15px;
-        border-radius: 50px;
-        background-color: lightgreen;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="slider">
-      <span id="slide-1"></span>
-      <span id="slide-2"></span>
-      <span id="slide-3"></span>
-      <div class="image-container">
-        <img src="https://user-images.githubusercontent.com/92330080/141214754-f4f3b9c4-0e8c-4539-a931-f347ddd9ede3.PNG" class="slide" width="500" height="300" />
-        <img src="<img src="https://user-images.githubusercontent.com/92330080/141214827-0ba09040-9177-4d5a-b129-7e66b86509d8.PNG" class="slide" width="500" height="300" />
-        <img src="<img src="https://user-images.githubusercontent.com/92330080/141214827-0ba09040-9177-4d5a-b129-7e66b86509d8.PNG" class="slide" width="500" height="300" />
-      </div>
-      <div class="buttons">
-        <a href="#slide-1"></a>
-        <a href="#slide-2"></a>
-        <a href="#slide-3"></a>
-      </div>
-    </div>
-  </body>
-</html>
-
 <table>
   <tr>
-    <td>Launcher Screen</td>
-     <td>Receipe Screen</td>
-     <td>Receipe Detail Screen</td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/92330080/141214754-f4f3b9c4-0e8c-4539-a931-f347ddd9ede3.PNG" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/92330080/141214795-32d524a4-df64-4c33-9acc-9f03621388b6.PNG" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/92330080/141214816-1c28e199-1ce4-45bd-98de-9e009fa69ad7.PNG" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/92330080/141218538-417f7bb0-324f-44e1-8f5a-c512bb6cd6d5.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/92330080/141218585-1b651b1a-9338-4aa4-b329-913b8853e595.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/92330080/141218594-a90759f6-aa3e-4b42-8fed-01a0a1b95f5e.png" width=270 height=480></td>
   </tr>
   
   <tr>
-    <td>Receipe Ingredients Screen</td>
-     <td>Receipe Filter Menu</td>
-     <td>Food Joke Screen</td>
+    <td><img src="https://user-images.githubusercontent.com/92330080/141218600-d5f9b1ad-8d88-4412-8e27-0fe0a79ad359.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/92330080/141218701-2b65d565-1d81-4ec0-b474-4d0739f08219.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/92330080/141218717-0b2e40b8-e2f5-49ab-8c9f-3390cc548f45.png" width=270 height=480></td>
   </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/92330080/141214827-0ba09040-9177-4d5a-b129-7e66b86509d8.PNG" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/92330080/141214835-190a9f21-b6c0-4829-8403-f2385a971eb9.PNG" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/92330080/141214855-05a7a2e7-513e-45fe-81de-3fe44df80d72.PNG" width=270 height=480></td>
+  
+  <tr>    
+    <td><img src="https://user-images.githubusercontent.com/92330080/141218723-1367b1aa-a3b6-4f8c-adc3-51bd4dbc87c1.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/92330080/141218873-af100ff7-5709-4092-9914-ef568be2f112.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/92330080/141218914-f95bb921-58fe-439d-998c-1dc3af7f53fd.png" width=270 height=480></td>
   </tr>
+  
+  
+  <tr>    
+    <td><img src="https://user-images.githubusercontent.com/92330080/141219558-61f40cc8-3f35-4e2e-9d60-930e679e966d.png" width=270 height=480></td>    
+  </tr>
+  
+  
  </table>
-
 
 
 App Features:
